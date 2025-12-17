@@ -10,7 +10,7 @@ from aiogram.types import (
 from aiogram.filters import Command
 
 # 🔑 ТОКЕН БОТА
-BOT_TOKEN = "PASTE_YOUR_BOT_TOKEN"
+BOT_TOKEN = "8468276373:AAEz6wOgj6JvMnnYp8zVEmxpeqrU5r5Q14A"
 
 # 📦 КОНФИГИ ДЛЯ КАЖДОГО ПОЛЬЗОВАТЕЛЯ
 USER_CONFIGS = {
