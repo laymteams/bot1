@@ -24,7 +24,7 @@ USER_CONFIGS = {
 
 }
 
-bot = Bot(token=BOT_TOKEN)
+bot = Bot(token=8468276373:AAEz6wOgj6JvMnnYp8zVEmxpeqrU5r5Q14A)
 dp = Dispatcher()
 
 keyboard = InlineKeyboardMarkup(
