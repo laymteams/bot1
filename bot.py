@@ -21,7 +21,7 @@ USER_CONFIGS = {
     6557932472: "vless://597aa492-a860-4729-a93f-f700d378d37e@144.31.252.107:443?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=9rfcKFpMQ3w8dxzclMNk8QvCIx5SUkCbZoeWNDENaS4&fp=chrome&sni=vk.com&sid=65&spx=%2F#%D0%9C%D0%BE%D0%B8%20%D0%BF%D0%BE%D0%B4%D0%BE%D0%BF%D0%B5%D1%87%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%BF%D0%BD%D1%89%D0%B8%D0%BA%D0%B8)))-%40qqcascoqq",
     8064069403: "vless://ff965144-10e9-4951-9f6a-be44154a120d@144.31.252.107:443?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=9rfcKFpMQ3w8dxzclMNk8QvCIx5SUkCbZoeWNDENaS4&fp=chrome&sni=vk.com&sid=65&spx=%2F#%D0%9C%D0%BE%D0%B8%20%D0%BF%D0%BE%D0%B4%D0%BE%D0%BF%D0%B5%D1%87%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%BF%D0%BD%D1%89%D0%B8%D0%BA%D0%B8)))-%40Mementoquodmorieris",
     8091979662: "vless://c4d92c07-6534-4318-829c-e361683c76ec@144.31.252.107:443?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=9rfcKFpMQ3w8dxzclMNk8QvCIx5SUkCbZoeWNDENaS4&fp=chrome&sni=vk.com&sid=65&spx=%2F#%D0%9C%D0%BE%D0%B8%20%D0%BF%D0%BE%D0%B4%D0%BE%D0%BF%D0%B5%D1%87%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%BF%D0%BD%D1%89%D0%B8%D0%BA%D0%B8)))-%2B7%20965%20633%209397",
-
+    6607818400: "vless://5899ff34-50aa-4b8a-b968-6275baaa1ad7@144.31.252.107:443?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=9rfcKFpMQ3w8dxzclMNk8QvCIx5SUkCbZoeWNDENaS4&fp=chrome&sni=vk.com&sid=65&spx=%2F#%D0%9C%D0%BE%D0%B8%20%D0%BF%D0%BE%D0%B4%D0%BE%D0%BF%D0%B5%D1%87%D0%BD%D1%8B%D0%B5%20%D0%B2%D0%BF%D0%BD%D1%89%D0%B8%D0%BA%D0%B8)))-%40nn4nkk"
 }
 
 bot = Bot(token=8468276373:AAEz6wOgj6JvMnnYp8zVEmxpeqrU5r5Q14A)
